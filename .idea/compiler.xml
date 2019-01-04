@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springcloud_bus" />
+        <module name="springcloud_config_client" />
+        <module name="springcloud_config_server" />
+        <module name="springcloud_eureka_client" />
+        <module name="springcloud_eureka_server" />
+        <module name="springcloud_eureka_server1" />
+        <module name="springcloud_eureka_server2" />
+        <module name="springcloud_feign" />
+        <module name="springcloud_hystric_ribbon" />
+        <module name="springcloud_ribbon" />
+        <module name="springcloud_service" />
+        <module name="springcloud_service2" />
+        <module name="springcloud_zipkin" />
+        <module name="springcloud_zipkin_firstservice" />
+        <module name="springcloud_zipkin_secondservice" />
+        <module name="springcloud_zuul" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="springcloud_bus" target="1.8" />
+      <module name="springcloud_config_client" target="1.8" />
+      <module name="springcloud_config_server" target="1.8" />
+      <module name="springcloud_eureka_client" target="1.8" />
+      <module name="springcloud_eureka_client (1)" target="1.8" />
+      <module name="springcloud_eureka_server" target="1.8" />
+      <module name="springcloud_eureka_server1" target="1.8" />
+      <module name="springcloud_eureka_server2" target="1.8" />
+      <module name="springcloud_feign" target="1.8" />
+      <module name="springcloud_hystric_ribbon" target="1.8" />
+      <module name="springcloud_ribbon" target="1.8" />
+      <module name="springcloud_ribbon (1)" target="1.8" />
+      <module name="springcloud_ribbon_hystric" target="1.8" />
+      <module name="springcloud_service" target="1.8" />
+      <module name="springcloud_service2" target="1.8" />
+      <module name="springcloud_zipkin" target="1.8" />
+      <module name="springcloud_zipkin_firstservice" target="1.8" />
+      <module name="springcloud_zipkin_secondservice" target="1.8" />
+      <module name="springcloud_zipkin_service1" target="1.8" />
+      <module name="springcloud_zipkin_service2" target="1.8" />
+      <module name="springcloud_zuul" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

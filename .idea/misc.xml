@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/springcloud_eureka_server/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud_eureka_client/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud_service/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud_service2/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud_ribbon/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud_feign/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud_hystric_ribbon/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud_zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud_config_server/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud_config_client/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud_bus/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud_zipkin/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud_zipkin_secondservice/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud_zipkin_firstservice/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud_eureka_server1/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud_eureka_server2/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

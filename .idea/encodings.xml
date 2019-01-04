@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/springcloud_bus" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud_config_client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud_config_server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud_eureka_client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud_eureka_server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud_eureka_server1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud_eureka_server2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud_feign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud_hystric_ribbon" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud_ribbon" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud_service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud_service2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud_zipkin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud_zipkin_firstservice" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud_zipkin_secondservice" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud_zuul" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springcloud_bus/springcloud_bus.iml" filepath="$PROJECT_DIR$/springcloud_bus/springcloud_bus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_config_client/springcloud_config_client.iml" filepath="$PROJECT_DIR$/springcloud_config_client/springcloud_config_client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_config_server/springcloud_config_server.iml" filepath="$PROJECT_DIR$/springcloud_config_server/springcloud_config_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_eureka_client/springcloud_eureka_client.iml" filepath="$PROJECT_DIR$/springcloud_eureka_client/springcloud_eureka_client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_eureka_server/springcloud_eureka_server.iml" filepath="$PROJECT_DIR$/springcloud_eureka_server/springcloud_eureka_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_eureka_server1/springcloud_eureka_server1.iml" filepath="$PROJECT_DIR$/springcloud_eureka_server1/springcloud_eureka_server1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_eureka_server2/springcloud_eureka_server2.iml" filepath="$PROJECT_DIR$/springcloud_eureka_server2/springcloud_eureka_server2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_feign/springcloud_feign.iml" filepath="$PROJECT_DIR$/springcloud_feign/springcloud_feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_hystric_ribbon/springcloud_hystric_ribbon.iml" filepath="$PROJECT_DIR$/springcloud_hystric_ribbon/springcloud_hystric_ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_learn.iml" filepath="$PROJECT_DIR$/springcloud_learn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_ribbon/springcloud_ribbon.iml" filepath="$PROJECT_DIR$/springcloud_ribbon/springcloud_ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_service/springcloud_service.iml" filepath="$PROJECT_DIR$/springcloud_service/springcloud_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_service2/springcloud_service2.iml" filepath="$PROJECT_DIR$/springcloud_service2/springcloud_service2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_zipkin/springcloud_zipkin.iml" filepath="$PROJECT_DIR$/springcloud_zipkin/springcloud_zipkin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_zipkin_firstservice/springcloud_zipkin_firstservice.iml" filepath="$PROJECT_DIR$/springcloud_zipkin_firstservice/springcloud_zipkin_firstservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_zipkin_secondservice/springcloud_zipkin_secondservice.iml" filepath="$PROJECT_DIR$/springcloud_zipkin_secondservice/springcloud_zipkin_secondservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_zuul/springcloud_zuul.iml" filepath="$PROJECT_DIR$/springcloud_zuul/springcloud_zuul.iml" />
+    </modules>
+  </component>
+</project>
